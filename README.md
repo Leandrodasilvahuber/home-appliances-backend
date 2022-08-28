@@ -45,9 +45,9 @@ name: <string>,
 ```json
 {
 name: <string>,
-    descripation: <string>
-    voltage_id: <integer>
-    producer_id: <iteger>
+descripation: <string>
+voltage_id: <integer>
+producer_id: <iteger>
 }
 ```
 
@@ -58,9 +58,9 @@ name: <string>,
 ```json
 {
 name: <string>,
-    descripation: <string>
-    voltage_id: <integer>
-    producer_id: <iteger>
+descripation: <string>
+voltage_id: <integer>
+producer_id: <iteger>
 }
 ```
 **RESPONSE:**
@@ -68,9 +68,9 @@ name: <string>,
 ```json
 {
 name: <string>,
-    descripation: <string>
-    voltage_id: <integer>
-    producer_id: <iteger>
+descripation: <string>
+voltage_id: <integer>
+producer_id: <iteger>
 }
 ```
 
