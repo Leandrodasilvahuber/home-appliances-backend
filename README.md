@@ -34,7 +34,7 @@ Leandro da Silva Huber - leandrohuber@yahoo.com
 
 ```json
 {
-	name: <string>,
+name: <string>,
     descripation: <string>
     voltage_id: <integer>
     producer_id: <iteger>
@@ -44,7 +44,7 @@ Leandro da Silva Huber - leandrohuber@yahoo.com
 
 ```json
 {
-	name: <string>,
+name: <string>,
     descripation: <string>
     voltage_id: <integer>
     producer_id: <iteger>
@@ -57,7 +57,7 @@ Leandro da Silva Huber - leandrohuber@yahoo.com
 
 ```json
 {
-	name: <string>,
+name: <string>,
     descripation: <string>
     voltage_id: <integer>
     producer_id: <iteger>
@@ -67,7 +67,7 @@ Leandro da Silva Huber - leandrohuber@yahoo.com
 
 ```json
 {
-	name: <string>,
+name: <string>,
     descripation: <string>
     voltage_id: <integer>
     producer_id: <iteger>
