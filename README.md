@@ -13,7 +13,10 @@ Requirements:
 Start Project: <br>
 1- clone repository <br>
 2- composer update --ignore-platform-req=ext-fileinfo <br>
-3- php artisan serve <br>
+3- create file .env <br>
+4- php artisan migrate<br>
+5- php artisan db:seed<br>
+6- php artisan serve <br>
     
 
 # Contact
