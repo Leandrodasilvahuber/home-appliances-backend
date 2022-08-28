@@ -10,7 +10,7 @@ Requirements:
     * (mysql-pdo enabled in php.ini)
     <br>
     <br>
-Start Project:
+Start Project: <br>
 1- clone repositorio <br>
 2- composer update --ignore-platform-req=ext-fileinfo <br>
 3- php artisan serve <br>
