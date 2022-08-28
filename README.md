@@ -7,8 +7,8 @@ Requisitos:
     * composer2.4.1 
     * (mysql-pdo habilitado em php.ini)
     
-1- clone o repositorio
-2- composer update --ignore-platform-req=ext-fileinfo
-3- php artisan serve
+1- clone o repositorio <br>
+2- composer update --ignore-platform-req=ext-fileinfo <br>
+3- php artisan serve <br>
     
 
