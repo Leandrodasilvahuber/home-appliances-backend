@@ -1,4 +1,5 @@
 <?php
+
 namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
@@ -8,7 +9,7 @@ use App\Http\Responses\ProducersResource;
 class ProducersController extends Controller
 {
 
-    protected $productsService;
+    protected $producersService;
 
     public function __construct(ProducersService $producersService)
     {

@@ -5,8 +5,11 @@ use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\ProductsController;
 use App\Http\Controllers\ProducersController;
+use App\Http\Controllers\VoltagesController;
 
 Route::get('/producers', [ProducersController::class , 'list']);
+
+Route::get('/voltages', [VoltagesController::class , 'list']);
 
 Route::get('/products', [ProductsController::class , 'list']);
 
