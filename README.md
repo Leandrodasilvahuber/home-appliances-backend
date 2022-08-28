@@ -89,15 +89,12 @@ Leandro da Silva Huber - leandrohuber@yahoo.com
 	<array>
 }
 ```
-
 ### **DELETE /products/:id**
 
 **BODY:**
 
 ```json
-{
-	id: <integer>,
-}
+{}
 ```
 ### **GET /producers**
 
