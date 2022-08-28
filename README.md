@@ -21,6 +21,7 @@ Leandro da Silva Huber - leandrohuber@yahoo.com
 
 # Resources:
 ```
+- voltages list
 - producers list
 - products list
 - products create
