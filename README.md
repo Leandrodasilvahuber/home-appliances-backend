@@ -3,10 +3,13 @@
 ## About project
 
 Requisitos: 
+    <br>
     * php8.1.9
+    <br>
     * composer2.4.1 
+    <br>
     * (mysql-pdo habilitado em php.ini)
-    
+    <br><br><br>
 1- clone o repositorio <br>
 2- composer update --ignore-platform-req=ext-fileinfo <br>
 3- php artisan serve <br>
