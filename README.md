@@ -16,3 +16,104 @@ Start Project: <br>
 3- php artisan serve <br>
     
 
+# Contact
+Leandro da Silva Huber - leandrohuber@yahoo.com
+
+# Resources:
+```
+- producers list
+- products list
+- products create
+- products delete
+- products update
+```
+
+### **POST /products**
+
+**BODY:**
+
+```json
+{
+	name: <string>,
+    descripation: <string>
+    voltage_id: <integer>
+    producer_id: <iteger>
+}
+```
+**RESPONSE:**
+
+```json
+{
+	name: <string>,
+    descripation: <string>
+    voltage_id: <integer>
+    producer_id: <iteger>
+}
+```
+
+### **PUT /products/:id**
+
+**BODY:**
+
+```json
+{
+	name: <string>,
+    descripation: <string>
+    voltage_id: <integer>
+    producer_id: <iteger>
+}
+```
+**RESPONSE:**
+
+```json
+{
+	name: <string>,
+    descripation: <string>
+    voltage_id: <integer>
+    producer_id: <iteger>
+}
+```
+
+### **GET /products**
+
+**BODY:**
+
+```json
+{}
+```
+
+**RESPONSE:**
+
+```json
+{
+	<array>
+}
+```
+
+### **DELETE /products/:id**
+
+**BODY:**
+
+```json
+{
+	id: <integer>,
+}
+```
+### **GET /producers**
+
+**BODY:**
+
+```json
+{
+    <array>
+}
+```
+### **GET /voltages**
+
+**BODY:**
+
+```json
+{
+    <array>
+}
+```
