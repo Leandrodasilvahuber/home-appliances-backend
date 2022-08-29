@@ -16,7 +16,7 @@ Start Project: <br>
 3- create file .env <br>
 4- php artisan migrate<br>
 5- php artisan db:seed<br>
-6- php artisan serve <br>
+6- php artisan serve  or php artisan serve --port=3333<br>
     
 
 # Contact
