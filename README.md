@@ -1,26 +1,19 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="80" alt="Laravel Logo"></a></p>
 
 ## About
-Requirements: 
-    <br>
-    * php8.1.9
-    <br>
-    * composer2.4.1 
-    <br>
-    * (mysql-pdo enabled in php.ini)
-    <br>
-    <br>
-Start Project: <br>
-1- clone repository <br>
-2- composer update --ignore-platform-req=ext-fileinfo <br>
-3- create file .env <br>
-4- php artisan migrate<br>
-5- php artisan db:seed<br>
-6- php artisan serve  or php artisan serve --port=3333<br>
-    
+Back-end example built in PHP, registers household appliances and their respective voltages.
 
-# Contact
-Leandro da Silva Huber - leandrohuber@yahoo.com
+## Requirements 
+* php8.1.9
+* composer2.4.1 
+* (mysql-pdo enabled in php.ini)
+
+## Start Project
+* composer update --ignore-platform-req=ext-fileinfo
+* create file .env
+* php artisan migrate
+* php artisan db:seed
+* php artisan serve or php artisan serve --port=3333
 
 # Resources:
 ```
